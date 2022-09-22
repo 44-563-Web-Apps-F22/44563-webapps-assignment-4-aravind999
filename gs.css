@@ -13,6 +13,9 @@
     font-family: 'Times New Roman', Times, serif;
     font: 18px;
   }
+  .Title:hover{
+    text-shadow:5px 5px yellowgreen;
+  }
   .subtitle{
     color: green;
     font-family: 'Times New Roman', Times, serif;
@@ -51,13 +54,17 @@
     font: 12px; ;
   }
 
-
+  .BUT:hover{
+    text-shadow: 2px 3px 4px rgb(247, 208, 14); 
+  }
 .CAPT{
   color: rgb(255, 183, 0);
   font-family:'Courier New', Courier, monospace;
   font: 12px; ;
 }
-
+.CAPT:hover{
+    text-shadow: 2px 3px 4px rgb(247, 14, 115);
+}
 
 .group{
   color: rgb(0, 255, 174);
@@ -65,7 +72,7 @@
   font: 12px; ;
  
 }
-
+    
 .JOS{
   color: rgb(148, 94, 24);
   font-family:'Courier New', Courier, monospace;
@@ -103,10 +110,16 @@ td,th,table{
         font-family:Arial, Helvetica, sans-serif;
         font: 12px;
     }
+    .CREW:hover{
+        text-shadow:5px 5px rgb(113, 4, 191); 
+    }
     .RALPH{
         color: rgb(141, 8, 61);
         font-family:Verdana, Geneva, Tahoma, sans-serif;
         font: 12px;
+    }
+    .RALPH:hover{
+        text-shadow:5px 5px yellowgreen;
     }
     .BUT2{
         color: rgb(230, 191, 49);
