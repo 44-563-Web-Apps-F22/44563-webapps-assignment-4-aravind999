@@ -83,7 +83,15 @@
   font-family:'Courier New', Courier, monospace;
   font: 12px;
 }
-
+td,th,table{
+    color:black;
+    border: solid 3px rgb(205, 188, 3);
+    border-collapse:seperate;
+    text-align:center;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    padding-left: 3px;
+    padding-right: 3px;
 
 
 
