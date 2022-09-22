@@ -1,0 +1,88 @@
+.mainHead {
+    color: goldenrod;
+    font-family: sans-serif;
+    font: 20px;;
+   
+  }
+  .mainHead  { 
+    text-shadow: 2px 3px 4px rgb(247, 14, 14);
+}
+
+  .Title{
+    color: cadetblue;
+    font-family: 'Times New Roman', Times, serif;
+    font: 18px;
+  }
+  .subtitle{
+    color: green;
+    font-family: 'Times New Roman', Times, serif;
+    font: 16px;
+  }
+
+  .speech {
+    color: black;
+    font-family: sans-serif;
+    font: 12px;;
+  }
+
+  .song {
+    color: coral;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font: 12px;;
+  }
+
+  .directions {
+    color: rgb(6, 6, 6);
+    background-color: yellow;
+    font-family: 'monospace';
+    font: 12px;;
+  }
+
+  .directions:hover  {
+    background-color: #1b2e41;
+    font-family:  'monospace';
+    color: whitesmoke;
+    font:18;
+  }
+
+  .BUT{
+    color: burlywood;
+    font-family:'Courier New', Courier, monospace
+    font: 12px; ;
+  }
+
+
+.CAPT{
+  color: rgb(255, 183, 0);
+  font-family:'Courier New', Courier, monospace;
+  font: 12px; ;
+}
+
+
+.group{
+  color: rgb(0, 255, 174);
+  font-family:Arial, Helvetica, sans-serif;
+  font: 12px; ;
+ 
+}
+
+.JOS{
+  color: rgb(148, 94, 24);
+  font-family:'Courier New', Courier, monospace;
+  font: 12px; ;
+}
+
+.SIR JOSEPH{
+  color: rgb(205, 33, 58);
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  font: 12px;
+}
+
+.DICK{
+  color: rgb(175, 209, 26);
+  font-family:'Courier New', Courier, monospace;
+  font: 12px;
+}
+
+
+
