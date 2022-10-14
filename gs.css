@@ -126,7 +126,29 @@ td,th,table{
         font-family:'Times New Roman', Times, serif;
         font: 12px;
     }
-
+    ul {
+        list-style-type: none;
+        margin: 4px;
+        padding: 4px;
+        overflow: hidden;
+        background-color: rgb(234, 125, 41);
+      }
+      
+      
+      
+      li {
+        float: left;
+      }
+      
+      
+      
+      li b {
+        display: block;
+        color: rgb(178, 24, 249);
+        text-align: center;
+        padding: 10px 10px;
+      
+      }
 
 
 
